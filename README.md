@@ -11,7 +11,16 @@ are received. The system ensures reliable communication, live inference, and eff
 embedded feedback. The overall goal is to demonstrate how edge AI and microcontroller
 coordination can be used to build intelligent, low-power security or identity verification systems.
 
+![ProjectPhoto](https://github.com/user-attachments/assets/88fb5529-09ca-4632-9f5e-b8974c12b973)
 
 
-FSM DIAGRAM:
+
+FSM DIAGRAM & TABLE:
+
+
+
 ![FSM](https://github.com/user-attachments/assets/768216f8-08b3-4d66-b600-d9bf6a21f321)
+
+![FSM_Table](https://github.com/user-attachments/assets/3ceb4601-b648-46dd-b080-e2a4067aa02e)
+
+
